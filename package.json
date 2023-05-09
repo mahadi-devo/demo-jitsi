@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "18.1.0",
     "react-native": "0.70.6",
-    "react-native-jitsimeet": "https://github.com/Paladin-Analytics/react-native-jitsi-meet#callback-module-ios"
+    "react-native-jitsimeet": "https://github.com/mahadi-devo/jitsi-wrapper"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
